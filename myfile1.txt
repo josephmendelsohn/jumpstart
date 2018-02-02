@@ -5,3 +5,4 @@ Current number:76	Current sum:326
 Current number:85	Current sum:411
 Current number:100	Current sum:511
 The average of all the numbers is 85.2
+And that is the end of this program.
