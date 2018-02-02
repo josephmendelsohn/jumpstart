@@ -1,0 +1,7 @@
+Current number:89	Current sum:89
+Current number:65	Current sum:154
+Current number:96	Current sum:250
+Current number:76	Current sum:326
+Current number:85	Current sum:411
+Current number:100	Current sum:511
+The average of all the numbers is 85.2
